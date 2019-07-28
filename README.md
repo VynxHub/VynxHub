@@ -1,0 +1,2 @@
+# VynxHub
+GitHub Pages
